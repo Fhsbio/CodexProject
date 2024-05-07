@@ -1,7 +1,7 @@
 package cards;
 
 public enum Symbols {
-  QUILL,
+  	QUILL,
 	INKWELL,
 	MANUSCRIPT,
 	PLANT_KINGDOM,
