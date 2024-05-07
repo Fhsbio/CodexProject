@@ -6,7 +6,7 @@ public class Cell {
 	private final Coordinate coordinata;
 	
 	public Cell(Coordinate coordinata, Object obj ) {
-		//setPezzo(null);
+		
 		this.coordinata = coordinata;	
 		this.obj = obj;
 	}
