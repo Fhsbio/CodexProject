@@ -1,4 +1,5 @@
 package cards;
+//MI CHIEDO SE HA SENSO SEPARARLO DAGLI OGGETTI O TENERE TUTTO IN SIMBOLI
 
 public enum Resources {
 		PLANT_KINGDOM,
